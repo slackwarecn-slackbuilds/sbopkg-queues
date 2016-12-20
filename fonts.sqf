@@ -1,0 +1,11 @@
+adobe-source-code-pro-font
+adobe-source-han-sans-fonts
+adobe-source-sans-pro-font
+adobe-source-serif-pro-font
+hack-font-ttf
+adobe-reader-fontpacks
+texlive-fonts
+google-droid-fonts
+noto-fonts
+ttf-ubuntu-font-family
+wqy-microhei-font-ttf

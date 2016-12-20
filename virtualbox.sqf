@@ -1,5 +1,5 @@
 acpica
 virtualbox-kernel
-virtualbox-extension-pack
-virtualbox
-
+gsoap
+virtualbox | WEBSERVICE=yes
+virtualbox-extension-pack 

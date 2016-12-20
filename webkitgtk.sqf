@@ -1,0 +1,3 @@
+libwebp
+geoclue
+webkitgtk
