@@ -1,2 +1,0 @@
-mm-common
-libxml++
