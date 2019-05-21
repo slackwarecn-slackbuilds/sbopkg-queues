@@ -1,0 +1,14 @@
+libosinfo
+libvirt-glib
+libvirt-python
+gnome-python2-gconf
+tunctl
+ipaddr-py
+python-requests
+python-urllib3
+python-chardet
+gtk-vnc
+spice-gtk
+idna
+vte3
+virt-manager

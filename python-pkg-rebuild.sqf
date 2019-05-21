@@ -1,5 +1,6 @@
 Flask
-MarkupSafe  | PYTHON3=yes
+python3-Flask
+MarkupSafe 	| PYTHON3=yes
 Markups
 Markdown
 Pygments
@@ -8,9 +9,9 @@ pyudev
 pysha3
 python3-sip
 python3-PyQt5
+pycrypto
 python3-pycrypto
 PySocks
-pycrypto
 pytest
 python-markdown-math
 python-requestbuilder
@@ -19,6 +20,7 @@ click
 Jinja2
 python3-Jinja2
 itsdangerous
+python3-itsdangerous
 werkzeug
 #cryptography
 
