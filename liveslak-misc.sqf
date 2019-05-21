@@ -1,0 +1,11 @@
+gmtk
+opencc
+libpaper
+qt5-webkit
+pcre2
+nodejs
+nwjs
+rubygem-sass
+ninja
+qt5-webkit
+google-go-lang
