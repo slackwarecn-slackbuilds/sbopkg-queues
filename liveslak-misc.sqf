@@ -9,3 +9,5 @@ rubygem-sass
 ninja
 qt5-webkit
 google-go-lang
+libdaemon
+avahi

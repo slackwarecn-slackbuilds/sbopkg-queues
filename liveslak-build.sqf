@@ -39,7 +39,5 @@ WireGuard
 apparmor
 virtualbox-kernel-addons
 
-libdaemon
-avahi
 w3m
 
